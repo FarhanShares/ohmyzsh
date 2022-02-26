@@ -1,4 +1,6 @@
 # This is used by Farhan Israq
+- Added Zsh Autosuggestions plugin
+- Added & Activated p10k theme
 
 <p align="center"><img src="https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png" alt="Oh My Zsh"></p>
 
